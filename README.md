@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data 
 - 🌱 I’m currently learning Data analytics and Vizualization
 - 💞️ I’m looking to collaborate on Related topics
-- 📫 How to reach me at angelojuninho20@gmail.com
+- 📫 How to reach me at contactrealangelo@gmail.com
 
 <!---
 angelojun26/angelojun26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
