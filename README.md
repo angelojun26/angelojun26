@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Angelo
 - 👀 I’m interested in Data 
-- 🌱 I’m currently learning Data analytics and Vizualization
+- 🌱 Recently transitioned into Data science and Business Analytics.
 - 💞️ I’m looking to collaborate on Related topics
 - 📫 How to reach me at contactrealangelo@gmail.com
 
